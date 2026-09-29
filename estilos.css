@@ -8,10 +8,12 @@
 
 body{
     background-image: url("fondoxd.gif");
-    background-color: #349bb4; /* Color de texto */
+    background-color: #000; /* Color de texto */
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
     color: #fff;
     font-weight: 600;
 }
